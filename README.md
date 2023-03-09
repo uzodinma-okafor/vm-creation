@@ -51,7 +51,7 @@ The RG will pass through validation. After it passes validation, click on "Creat
 <br />
 
 <p>
-<img src="https://i.imgur.com/uzNVsRC.png" height="50%" width="33%" alt="Virtual Machine Setup Steps"/><img src="https://i.imgur.com/e7OFZRn.png" height="50%" width="33%" alt="Virtual Machine Setup Steps"/>
+<img src="https://i.imgur.com/uzNVsRC.png" height="50%" width="33%" alt="Virtual Machine Setup Steps"/><img src="https://i.imgur.com/vb818Li.png" height="50%" width="33%" alt="Virtual Machine Setup Steps"/><img src="https://i.imgur.com/e7OFZRn.png" height="50%" width="33%" alt="Virtual Machine Setup Steps"/>
 </p>
 <p>
 (Left pic) Fill out the remaining required details for your VM (Administrator account username & password). In this example, username is labuserdin and password is Virtual123mach. Leave other required fields with preselected default choices alone. Check the box confirming you have an eligible Windows 10/11 license and then click "Review & create" below. On next page (middle pic), you should see that your VM passed validation. Click "create" at the bottom of the page below. Repeat the steps for filling out info for the VM again IF you click "Review & create" and you don't pass validation soon after. On the next page (left pic), you'll see deployment of your virtual machine is in progress. This will take a few minutes.
