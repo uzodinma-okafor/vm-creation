@@ -62,6 +62,6 @@ The RG will pass through validation. After it passes validation, click on "Creat
 <img src="https://i.imgur.com/9MJk1O0.png" height="50%" width="50%" alt="Virtual Machine Setup Steps"/><img src="https://i.imgur.com/s4hNF03.png" height="50%" width="50%" alt="Virtual Machine Setup Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+(Left pic) In a few minutes, deployment of your VM will complete as shown. Click on "Go to resource" button. (right pic) On the next page, you have all the info listed for your new VM including Public IP address, private IP address, virtual network, and more.
 </p>
 <br />
